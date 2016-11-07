@@ -79,6 +79,7 @@
 				49FC44DB1DD0F3A60008E47B /* TestFrameworkTests */,
 				49FC44CF1DD0F3A60008E47B /* Products */,
 				49FC44FC1DD0F4E90008E47B /* Frameworks */,
+				49FC45611DD104AF0008E47B /* Resources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -124,6 +125,13 @@
 				49FC44FD1DD0F4E90008E47B /* Foundation.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		49FC45611DD104AF0008E47B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -434,6 +442,7 @@
 				49FC44E41DD0F3A60008E47B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		49FC44E51DD0F3A60008E47B /* Build configuration list for PBXNativeTarget "TestFrameworkTests" */ = {
 			isa = XCConfigurationList;
@@ -442,6 +451,7 @@
 				49FC44E71DD0F3A60008E47B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
